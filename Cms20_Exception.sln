@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cms20_Exception", "Cms20_Exception\Cms20_Exception.csproj", "{1BA152D9-E9B9-417E-B557-0E156B34187C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BA152D9-E9B9-417E-B557-0E156B34187C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA152D9-E9B9-417E-B557-0E156B34187C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA152D9-E9B9-417E-B557-0E156B34187C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA152D9-E9B9-417E-B557-0E156B34187C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7920E810-5823-4B1D-B156-86546EC54157}
+	EndGlobalSection
+EndGlobal
